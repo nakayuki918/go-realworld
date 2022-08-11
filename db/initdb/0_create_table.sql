@@ -1,0 +1,3 @@
+CREATE DATABASE ninja;
+\c ninja
+CREATE SCHEMA IF NOT EXISTS admin;
